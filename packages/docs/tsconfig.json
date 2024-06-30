@@ -1,0 +1,4 @@
+{
+  "extends": "@codeeducation-ui/ts-config/react.json",
+  "include": ["src"]
+}
