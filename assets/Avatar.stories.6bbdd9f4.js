@@ -1,0 +1,2 @@
+import{A as t}from"./index.52002f96.js";import"./index.7cbd9dba.js";import"./iframe.14147f56.js";import"./jsx-runtime.879979a3.js";import"./index.33feca1c.js";const n={title:"Data display/Avatar",component:t,args:{src:"https://github.com/luan-junior.png",alt:"Luan J\xFAnior"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,n as default};
+//# sourceMappingURL=Avatar.stories.6bbdd9f4.js.map
